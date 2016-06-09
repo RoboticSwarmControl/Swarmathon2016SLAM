@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "mobility")
+set(mobility_MAINTAINER "NASA Swarmathon <swarmathon@cs.unm.edu>")
+set(mobility_DEPRECATED "")
+set(mobility_VERSION "0.2.0")
+set(mobility_BUILD_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs" "std_msgs" "random_numbers" "message_generation" "shared_messages")
+set(mobility_RUN_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs" "std_msgs" "random_numbers" "message_runtime" "shared_messages")
+set(mobility_BUILDTOOL_DEPENDS "catkin")

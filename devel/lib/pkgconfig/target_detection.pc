@@ -1,0 +1,8 @@
+prefix=/home/swarmie/rover_workspace/devel
+
+Name: target_detection
+Description: Description of target_detection
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/swarmie/rover_workspace/devel/lib 
+Requires: cv_bridge geometry_msgs image_transport roscpp sensor_msgs std_msgs message_runtime shared_messages

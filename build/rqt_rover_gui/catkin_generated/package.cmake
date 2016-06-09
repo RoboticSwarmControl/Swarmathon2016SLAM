@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "rqt_rover_gui")
+set(rqt_rover_gui_MAINTAINER "Matthew Fricke <matthew@fricke.co.uk>")
+set(rqt_rover_gui_DEPRECATED "")
+set(rqt_rover_gui_VERSION "0.0.1")
+set(rqt_rover_gui_BUILD_DEPENDS "rqt_gui" "rqt_gui_cpp" "cv_bridge" "image_transport")
+set(rqt_rover_gui_RUN_DEPENDS "rqt_gui" "rqt_gui_cpp" "cv_bridge" "image_transport")
+set(rqt_rover_gui_BUILDTOOL_DEPENDS "catkin")

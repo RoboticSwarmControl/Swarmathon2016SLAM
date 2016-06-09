@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "obstacle_detection")
+set(obstacle_detection_MAINTAINER "NASA Swarmathon <swarmathon@cs.unm.edu>")
+set(obstacle_detection_DEPRECATED "")
+set(obstacle_detection_VERSION "0.2.0")
+set(obstacle_detection_BUILD_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs" "std_msgs" "message_filters")
+set(obstacle_detection_RUN_DEPENDS "geometry_msgs" "roscpp" "sensor_msgs" "std_msgs" "message_filters")
+set(obstacle_detection_BUILDTOOL_DEPENDS "catkin")

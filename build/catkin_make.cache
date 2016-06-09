@@ -1,0 +1,2 @@
+abridge:gazebo_plugins:mobility:obstacle_detection:rqt_rover_gui:shared_messages:target_detection
+-DCATKIN_DEVEL_PREFIX=/home/swarmie/rover_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/swarmie/rover_workspace/install -G Unix Makefiles

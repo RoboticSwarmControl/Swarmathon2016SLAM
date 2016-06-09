@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/swarmie/rover_workspace/src/obstacle_detection/src/obstacle.cpp
+ros/ros.h
+-
+message_filters/subscriber.h
+-
+message_filters/time_synchronizer.h
+-
+std_msgs/UInt8.h
+-
+sensor_msgs/Range.h
+-
+

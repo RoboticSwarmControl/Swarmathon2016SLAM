@@ -1,0 +1,8 @@
+prefix=/home/swarmie/rover_workspace/devel
+
+Name: shared_messages
+Description: Description of shared_messages
+Version: 0.0.1
+Cflags: -I/home/swarmie/rover_workspace/devel/include
+Libs: -L/home/swarmie/rover_workspace/devel/lib 
+Requires: roscpp message_runtime sensor_msgs std_msgs
