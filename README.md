@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Swarmathon-ROS
 
 This repository is a ROS (Robot Operating System) controller framework for the Swarmie robots used in the [NASA Swarmathon](http://www.nasaswarmathon.com), a national swarm robotics competition. This particular framework is a ROS implementation of the CPFA (central-place foraging algorithm) developed for [iAnt robot swarms](http://swarms.cs.unm.edu) at the [University of New Mexico](http://www.unm.edu/).
@@ -249,3 +250,7 @@ Since ROS is multithreaded you may need to attach the debugger to threads that h
 ```sudo setcap cap_sys_ptrace=eip /usr/bin/gdb```
 
 To use QT Creator to debug your already running program click the "Debug" menu. Choose "Start Debugging" and then "Attach to Running Application...". You will be able to use the graphical interface to GDB from here. 
+=======
+# Swarmathon2016
+Summer research code
+>>>>>>> 18c40c5653ba334e1908f7f436d62cbb7903ba25
